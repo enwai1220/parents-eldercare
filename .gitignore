@@ -1,0 +1,24 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器/IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# 如果后续加入了真实扫描件或图片
+*.pdf
+*.png
+*.jpg
+*.jpeg
+
+# 如果你用密码管理器文件
+*.kdbx
+*.kdb
+
+# 临时文件
+*.tmp
+*.bak
